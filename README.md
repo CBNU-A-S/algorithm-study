@@ -4,7 +4,7 @@
 
 ## 스터디 진행 방식
 
-<details><summary>자세히</summary><br>
+<details><summary>자세히</summary>
 
 * ### 개념 스터디
 
