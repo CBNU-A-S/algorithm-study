@@ -32,9 +32,30 @@
 
 ### 0. 초기 환경 설정
 
-맨 처음, 이 repository를 `fork` 해온 뒤 자신의 이름으로 된 폴더 생성하기
+1. ##### 맨 처음, 이 repository를 `fork` 한다.
 
-> 앞으로 올리는 모든 파일들은 `자신의 이름`으로 된 폴더 안에 올려야 한다
+   <img src=".\fork.png" style="zoom:50%;"  align="left"/>
+
+2. ##### `fork` 받은 저장소를 자신의 컴퓨터에 clone 받은 뒤 자신의 이름으로 된 폴더를 생성한다.
+
+   앞으로 올리는 모든 파일들은 `자신의 이름`으로 된 폴더 안에 올려야 한다
+
+   <img src="./clone.png" style="zoom:50%;" align="left"/>
+
+   ```bash
+   $ git clone [fork한 자신의 repository 주소]
+   $ cd alorithm-study
+   $ mkdir [자신의 이름]
+   ```
+
+   **주의**: IDE로 폴더를 열때 `자신의이름` 폴더를 열어야 `.ide` 같은 에디터 설정 파일들이 엉뚱한데 추가되지 않는다
+
+3. ##### upstream 주소 추가
+
+   ```bash
+   $ git remote add upstream https://github.com/CBNU-A-S/algorithm-study.git
+   $ git remote -v
+   ```
 
 <br>
 
