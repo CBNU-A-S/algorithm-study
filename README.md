@@ -152,7 +152,7 @@ $ git pull -r upstream main
   | 11주차 |  | [백준] Silver 1 [나무 탈출](https://www.acmicpc.net/problem/15900) |  | [백준] Silver 2 [나무 자르기](https://www.acmicpc.net/problem/2805) |
   | 12주차 | [백준] Gold 5 [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |  | [백준] Silver 2 [과자 나눠주기](https://www.acmicpc.net/problem/16401) |  |
   | 16주차 | [백준] Gold 5 [시간 관리하기](https://www.acmicpc.net/problem/6068) |  | [백준] Silver 5 [이름 궁합](https://www.acmicpc.net/problem/15312) |  |
-  |  |  |  |  |  |
+  | 17주차 |  | [백준] Gold 4 [N-Queen](https://www.acmicpc.net/problem/9663) |  | [백준] Silver 3 [N과 M](https://www.acmicpc.net/problem/15652) |
   |  |  |  |  |  |
   |  |  |  |  |  |
 
